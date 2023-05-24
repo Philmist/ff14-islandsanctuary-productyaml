@@ -1,7 +1,7 @@
-アイルポーション: 
+アイルポーション:
   hour: 4
   units: 1
-  value: 33
+  value: 36
   treat:
     - 薬品
   material:
@@ -10,7 +10,7 @@
 開拓工房の火薬:
   hour: 4
   units: 1
-  value: 33
+  value: 36
   treat:
     - 薬品
     - 窯業製品
@@ -21,7 +21,7 @@
 開拓工房の焼き貝:
   hour: 4
   units: 1
-  value: 33
+  value: 36
   treat:
     - 料理
     - 海産製品
@@ -31,7 +31,7 @@
 アイルウッドネックレス:
   hour: 4
   units: 1
-  value: 33
+  value: 36
   treat:
     - アクセサリ
     - 木工製品
@@ -41,7 +41,7 @@
 開拓工房のザワークラフト:
   hour: 4
   units: 1
-  value: 48
+  value: 52
   treat:
     - 保存食
   material:
@@ -50,7 +50,7 @@
 開拓工房の焼きパンプキン:
   hour: 4
   units: 1
-  value: 48
+  value: 52
   treat:
     - 料理
   material:
@@ -59,7 +59,7 @@
 アイルクリナリーナイフ:
   hour: 4
   units: 1
-  value: 52
+  value: 57
   treat:
     - 日用品
     - 動物製品
@@ -69,7 +69,7 @@
 アイルブラシ:
   hour: 4
   units: 1
-  value: 52
+  value: 57
   treat:
     - 日用品
     - 木工製品
@@ -79,7 +79,7 @@
 開拓工房のボイルドエッグ:
   hour: 4
   units: 1
-  value: 52
+  value: 57
   treat:
     - 料理
     - 動物製品
@@ -89,7 +89,7 @@
 アイルファングイヤリング:
   hour: 4
   units: 1
-  value: 52
+  value: 57
   treat:
     - アクセサリ
     - 動物製品
@@ -99,7 +99,7 @@
 開拓工房のバター:
   hour: 4
   units: 1
-  value: 52
+  value: 57
   treat:
     - 調味料
     - 動物製品
@@ -109,7 +109,7 @@
 開拓工房のパースニップサラダ:
   hour: 4
   units: 1
-  value: 57
+  value: 62
   treat:
     - 料理
   material:
@@ -119,7 +119,7 @@
 アイルロープ:
   hour: 4
   units: 1
-  value: 43
+  value: 46
   treat:
     - 日用品
     - 布製品
@@ -130,7 +130,7 @@
 アイルインクペースト:
   hour: 4
   units: 1
-  value: 43
+  value: 46
   treat:
     - 調味料
     - 海産製品
@@ -140,7 +140,7 @@
 アイルトマトケチャップ:
   hour: 4
   units: 1
-  value: 62
+  value: 67
   treat:
     - 調味料
   material:
@@ -150,7 +150,7 @@
 開拓工房のコーンフレーク:
   hour: 4
   units: 1
-  value: 62
+  value: 67
   treat:
     - 保存食
   material:
@@ -159,7 +159,7 @@
 開拓工房のココナッツジュース:
   hour: 4
   units: 1
-  value: 43
+  value: 46
   treat:
     - 菓子
     - 薬品
@@ -169,7 +169,7 @@
 開拓工房の蜂蜜:
   hour: 4
   units: 1
-  value: 43
+  value: 46
   treat:
     - 菓子
     - 調味料
@@ -179,7 +179,7 @@
 開拓工房のパブリカパウダー:
   hour: 4
   units: 1
-  value: 62
+  value: 67
   treat:
     - 調味料
     - 薬品
@@ -189,7 +189,7 @@
 開拓工房の無人パン:
   hour: 4
   units: 1
-  value: 62
+  value: 67
   treat:
     - 料理
     - 薬品
@@ -200,7 +200,7 @@
 開拓工房のポポトサラダ:
   hour: 4
   units: 1
-  value: 62
+  value: 67
   treat:
     - 料理
   material:
@@ -210,17 +210,36 @@
 開拓工房のドレッシング:
   hour: 4
   units: 1
-  value: 62
+  value: 67
   treat:
     - 調味料
   material:
     アイルオニオン: 2
     無人島の樹液: 1
     無人島の玉藻: 1
+開拓工房の重曹:
+  hour: 4
+  units: 1
+  value: 46
+  treat:
+    - 日用品
+    - 薬品
+  material:
+    無人島のソーダ水: 2
+    無人島の岩塩: 2
+開拓工房のラナービーンズソテー:
+  hour: 4
+  units: 1
+  value: 67
+  treat:
+    - 料理
+  material:
+    アイルラナービーンズ: 2
+    無人島の岩塩: 2
 アイルウッドチェア:
   hour: 6
   units: 1
-  value: 50
+  value: 54
   treat:
     - 調度品
     - 木工製品
@@ -230,7 +249,7 @@
 アイルコーラルリング:
   hour: 6
   units: 1
-  value: 50
+  value: 54
   treat:
     - アクセサリ
     - 海産製品
@@ -240,7 +259,7 @@
 アイルバルビュート:
   hour: 6
   units: 1
-  value: 50
+  value: 54
   treat:
     - 防具
     - 金属製品
@@ -250,7 +269,7 @@
 アイルマクアフティル:
   hour: 6
   units: 1
-  value: 50
+  value: 54
   treat:
     - 武器
     - 木工製品
@@ -260,7 +279,7 @@
 アイルチュニック:
   hour: 6
   units: 1
-  value: 86
+  value: 93
   treat:
     - 防具
     - 布製品
@@ -270,7 +289,7 @@
 アイルホラ:
   hour: 6
   untis: 1
-  value: 86
+  value: 93
   treat:
     - 武器
     - 動物製品
@@ -280,7 +299,7 @@
 アイルブリックカウンター:
   hour: 6
   units: 1
-  value: 57
+  value: 62
   treat:
     - 調度品
     - 窯業製品
@@ -291,7 +310,7 @@
 開拓工房のスイートポテト:
   hour: 6
   units: 1
-  value: 86
+  value: 93
   treat:
     - 菓子
   material:
@@ -301,7 +320,7 @@
 開拓工房のキャラメル:
   hour: 6
   units: 1
-  value: 97
+  value: 105
   treat:
     - 菓子
   material:
@@ -310,7 +329,7 @@
 アイルリボン:
   hour: 6
   units: 1
-  value: 64
+  value: 70
   treat:
     - アクセサリ
     - 布製品
@@ -321,7 +340,7 @@
 アイルキャバリエハット:
   hour: 6
   units: 1
-  value: 97
+  value: 105
   treat:
     - 防具
     - 布製品
@@ -332,7 +351,7 @@
 アイルホルン:
   hour: 6
   units: 1
-  value: 97
+  value: 105
   treat:
     - 日用品
     - 動物製品
@@ -343,7 +362,7 @@
 アイルソルトゴッド:
   hour: 6
   units: 1
-  value: 64
+  value: 70
   treat:
     - 保存食
     - 海産製品
@@ -353,7 +372,7 @@
 開拓工房の仙薬:
   hour: 6
   units: 1
-  value: 64
+  value: 70
   treat:
     - 薬品
     - 海産製品
@@ -364,7 +383,7 @@
 アイルベリージャム:
   hour: 6
   units: 1
-  value: 93
+  value: 101
   treat:
     - 調味料
   material:
@@ -374,7 +393,7 @@
 開拓工房のオニオンスープ:
   hour: 6
   units: 1
-  value: 93
+  value: 101
   treat:
     - 料理
   material:
@@ -384,7 +403,7 @@
 開拓工房のフィッシュパイ:
   hour: 6
   units: 1
-  value: 93
+  value: 101
   treat:
     - 菓子
     - 海産製品
@@ -395,7 +414,7 @@
 開拓工房の野菜ジュース:
   hour: 6
   units: 1
-  value: 93
+  value: 101
   treat:
     - 薬品
   material:
@@ -405,7 +424,7 @@
 開拓工房のパンプキンプディング:
   hour: 6
   units: 1
-  value: 93
+  value: 101
   treat:
     - 菓子
   material:
@@ -415,7 +434,7 @@
 アイルシープラグ:
   hour: 6
   units: 1
-  value: 108
+  value: 116
   treat:
     - 調度品
     - 動物製品
@@ -426,7 +445,7 @@
 アイルガーデンサイズ:
   hour: 6
   units: 1
-  value: 108
+  value: 116
   treat:
     - 日用品
     - 金属製品
@@ -437,7 +456,7 @@
 開拓工房のドライフラワー:
   hour: 6
   units: 1
-  value: 64
+  value: 70
   treat:
     - 日用品
     - 調度品
@@ -448,7 +467,7 @@
 開拓工房のカウルケニン:
   hour: 6
   units: 1
-  value: 108
+  value: 116
   treat:
     - 薬品
     - 動物製品
@@ -456,10 +475,63 @@
     アイルリーキ: 3
     飼育動物の乳: 1
     無人島の玉藻: 3
+アイルストーブ:
+  hour: 6
+  units: 1
+  value: 70
+  treat:
+    - 調度品
+    - 金属製品
+  material:
+    無人島の石炭: 2
+    無人島の鉄鉱: 3
+    無人島の花崗岩: 1
+開拓工房の化石標本:
+  hour: 6
+  units: 1
+  value: 70
+  treat:
+    - 動物製品
+    - 窯業製品
+  material:
+    無人島の堆積岩: 3
+    無人島のパーム原木: 2
+    無人島の綿花: 1
+アイルスペクタクルズ:
+  hour: 6
+  units: 1
+  value: 70
+  treat:
+    - 防具
+    - 日用品
+  material:
+    無人島の霊銀鉱: 3
+    無人島のクォーツ: 2
+    無人島の銅鉱: 1
+開拓工房のビーツスープ:
+  hour: 6
+  units: 1
+  value: 101
+  treat:
+    - 料理
+  material:
+    アイルビーツ: 3
+    アイルポポト: 1
+    飼育動物の乳: 1
+アイルパトゥルジャン・イマム・バユルドゥ:
+  hour: 6
+  units: 1
+  value: 116
+  treat:
+    - 料理
+  material:
+    アイルエッグプラント: 2
+    アイルオニオン: 2
+    アイルトマト: 2
 シープのブロンズ像:
   hour: 8
   units: 1
-  value: 76
+  value: 83
   treat:
     - 調度品
     - 金属製品
@@ -470,7 +542,7 @@
 開拓工房のグロースフォーミュラ:
   hour: 8
   units: 1
-  value: 163
+  value: 176
   treat:
     - 薬品
   material:
@@ -480,7 +552,7 @@
 アイルガーネットレイピア:
   hour: 8
   units: 1
-  value: 163
+  value: 176
   treat:
     - 武器
     - 窯業製品
@@ -491,7 +563,7 @@
 アイルスプルースシールド:
   hour: 8
   units: 1
-  value: 163
+  value: 176
   treat:
     - 防具
     - 木工製品
@@ -502,7 +574,7 @@
 開拓工房のシャークオイル:
   hour: 8
   units: 1
-  value: 163
+  value: 176
   treat:
     - 日用品
     - 海産製品
@@ -513,7 +585,7 @@
 アイルシルバーイヤーカフ:
   hour: 8
   units: 1
-  value: 163
+  value: 176
   treat:
     - アクセサリ
     - 金属製品
@@ -524,7 +596,7 @@
 開拓工房のラディッシュピクルス:
   hour: 8
   units: 1
-  value: 124
+  value: 135
   treat:
     - 保存食
   material:
@@ -534,7 +606,7 @@
 アイルアイアンアクス:
   hour: 8
   units: 1
-  value: 86
+  value: 93
   treat:
     - 武器
     - 金属製品
@@ -545,7 +617,7 @@
 アイルクォーツリング:
   hour: 8
   units: 1
-  value: 86
+  value: 93
   treat:
     - アクセサリ
     - 窯業製品
@@ -556,7 +628,7 @@
 開拓工房の磁器壺:
   hour: 8
   units: 1
-  value: 86
+  value: 93
   treat:
     - 日用品
     - 窯業製品
@@ -567,7 +639,7 @@
 アイルベッド:
   hour: 8
   units: 1
-  value: 144
+  value: 156
   treat:
     - 調度品
     - 布製品
@@ -589,7 +661,7 @@
 アイルクルーク:
   hour: 8
   units: 1
-  value: 144
+  value: 156
   treat:
     - 武器
     - 木工製品
@@ -600,7 +672,7 @@
 開拓工房の珊瑚の剣:
   hour: 8
   units: 1
-  value: 86
+  value: 93
   treat:
     - 武器
     - 海産製品
@@ -609,11 +681,63 @@
     無人島の天然樹脂: 3
     無人島のパーム原木: 2
 アイルブルーオパール:
-  hour: 9
+  hour: 8
   units: 1
-  value: 96
+  value: 104
   treat:
     - 窯業製品
   material:
     無人島のウッドオパール: 4
     無人島の砂: 4
+アイルランタン:
+  hour: 8
+  units: 1
+  value: 104
+  treat:
+    - 日用品
+  material:
+    無人島のトモシビタケ: 3
+    無人島のクォーツ: 3
+    無人島の銅鉱: 2
+無人島のブイヤベース:
+  hour: 8
+  units: 1
+  value: 176
+  treat:
+    - 料理
+    - 海産製品
+  material:
+    無人島のテナガエビ: 2
+    無人島の二枚貝: 2
+    無人島のスキッド: 2
+    アイルトマト: 2
+アイルバスタブ:
+  hour: 8
+  units: 1
+  value: 93
+  treat:
+    - 調度品
+    - 窯業製品
+  material:
+    無人島の大理石: 4
+    無人島の花崗岩: 2
+    無人島の粘土: 2
+開拓工房の断熱ガラス:
+  hour: 8
+  units: 1
+  value: 104
+  treat:
+    - 窯業製品
+  material:
+    無人島の幻影砂: 4
+    無人島の砂: 4
+開拓工房のズッキーニピクルス:
+  hour: 8
+  units: 1
+  value: 135
+  treat:
+    - 保存食
+  material:
+    アイルズッキーニ: 4
+    無人島の玉藻: 2
+    無人島のサトウキビ: 2
